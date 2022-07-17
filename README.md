@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Avinash
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Structures
 - 📫 How to reach me avinashstarkvis@gmail.com
